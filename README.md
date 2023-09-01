@@ -20,4 +20,9 @@
 
 ![Working webpage](https://github.com/oghare01/LempStackImplementation/assets/141191975/5e9aa983-20b5-434f-8288-0859f87b71e4)
 
-6. 
+6. PHP was then tested with Nginx. This worked successfully as the below screenwhot reveals
+
+![php test successful ](https://github.com/oghare01/LempStackImplementation/assets/141191975/83762eb4-28d2-41c4-83a3-9dfbd661cab7)
+
+7. 
+
