@@ -24,5 +24,8 @@
 
 ![php test successful ](https://github.com/oghare01/LempStackImplementation/assets/141191975/83762eb4-28d2-41c4-83a3-9dfbd661cab7)
 
-7. 
+7. An sql database 'example_database' was created. I then created a user with access to the database and tested the database which resulted in the following
+
+![Working databse](https://github.com/oghare01/LempStackImplementation/assets/141191975/d0b600bb-ce83-41df-b840-6231e4ccdbf3)
+
 
