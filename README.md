@@ -16,4 +16,8 @@
 
 ![Php installed successfully](https://github.com/oghare01/LempStackImplementation/assets/141191975/dffef08f-ea79-4aaa-b58a-6194c669577f)
 
-5. 
+5. The webpage was then reloaded to check that all the modifications and set up worked fine
+
+![Working webpage](https://github.com/oghare01/LempStackImplementation/assets/141191975/5e9aa983-20b5-434f-8288-0859f87b71e4)
+
+6. 
