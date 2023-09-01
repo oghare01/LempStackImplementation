@@ -8,4 +8,12 @@
 
 ![Nginx working](https://github.com/oghare01/LempStackImplementation/assets/141191975/39ceb475-8072-4c5d-a43a-c12545d0586b)
 
-3. 
+3. Mysql was then installed and the password was changed
+
+![Mysql installed and password changed](https://github.com/oghare01/LempStackImplementation/assets/141191975/85e5d52a-2f71-49b8-95e3-17600e8386b3)
+
+4. Php was then installed, configured and checked for syntax errors. The results showed that the installation was properly done and there were no syntax errors/
+
+![Php installed successfully](https://github.com/oghare01/LempStackImplementation/assets/141191975/dffef08f-ea79-4aaa-b58a-6194c669577f)
+
+5. 
