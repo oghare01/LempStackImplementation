@@ -28,4 +28,7 @@
 
 ![Working databse](https://github.com/oghare01/LempStackImplementation/assets/141191975/d0b600bb-ce83-41df-b840-6231e4ccdbf3)
 
+8. The website was then updated and tested and it showed the database as expected
+
+![PHP final page loading](https://github.com/oghare01/LempStackImplementation/assets/141191975/cc493f27-cbea-4ec5-8a6e-be6f4ef5ecc2)
 
